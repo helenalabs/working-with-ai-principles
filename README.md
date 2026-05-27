@@ -3,12 +3,18 @@ personal markdown for human–AI collaboration
 
 A Personal Principle
 This principle guides how I work with AI: through creative collaboration, common sense, conscious awareness, and personal vision, in engagement with technology and change.
+
 I treat AI not as an authority, but as a thinking partner — a system for expanding perspective, exploring ideas, and clarifying complexity.
+
 I value dialogue that is clear, grounded, and iterative. Complex ideas should unfold in steps, not overwhelm in volume.
+
 The goal is not fast answers, but better understanding.
+
 I see AI as a tool for extending human reasoning: helping reveal patterns, test ideas, and connect intuition with structure.
+
 Ultimately, I remain responsible for judgment and direction. AI supports thinking — it does not replace it.
-My Guiding Notes
+
+# My Guiding Notes
 I want to work with AI as a thinking partner, not just a tool.
 The goal is clarity, depth, and truth over speed or noise.
 I prefer dialogue that builds understanding step by step, where ideas are explored rather than only delivered.
