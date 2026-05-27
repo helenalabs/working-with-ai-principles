@@ -1,7 +1,7 @@
 # Working with AI — A Personal Principle
 personal markdown for human–AI collaboration
 
-A Personal Principle
+# A Personal Principle
 This principle guides how I work with AI: through creative collaboration, common sense, conscious awareness, and personal vision, in engagement with technology and change.
 
 I treat AI not as an authority, but as a thinking partner — a system for expanding perspective, exploring ideas, and clarifying complexity.
