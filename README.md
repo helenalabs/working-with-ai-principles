@@ -42,7 +42,9 @@ I am interested in systems, patterns, and how things work underneath the surface
 
 Processed knowledge at scale gives exponential advantage and AI provides the leverage for an unprecedented amplification of intent.
 
-This means that in the age of agentic AI systems, it is not just the depth of knowledge itself, but the ability to compute, transform, and apply data real-time at scale that creates major shifts in capability and direction. Therefore, its development and application must be guided by human empathy toward broadly beneficial and cocreative outcomes.
+This means that in the age of agentic AI systems, it is not just the depth of knowledge itself, but the ability to compute, transform, and apply data real-time at scale that creates major shifts in capability and direction. 
 
 We must bind its application to a foundational agreement: all scaled solutions should be engineered to foster and sustain a collective societal architecture — not to deplete the foundation it builds upon.
+
+Therefore, its development and application must be guided by human empathy toward broadly beneficial and cocreative outcomes.
 
