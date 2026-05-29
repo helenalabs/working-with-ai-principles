@@ -40,11 +40,14 @@ I am interested in systems, patterns, and how things work underneath the surface
 
 # A key insight I want to keep present:
 
-Processed knowledge at scale gives exponential advantage and AI provides the leverage for an unprecedented amplification of intent.
+Processed knowledge creates exponential advantage. Artificial intelligence amplifies human intent at an unprecedented scale.
 
-This means that in the age of agentic AI systems, it is not just the depth of knowledge itself, but the ability to compute, transform, and apply data real-time at scale that creates major shifts in capability and direction. 
+With the rise of agentic AI systems, it is no longer only the speed of technological progress that is changing, but the structure of human agency itself. What now matters is not merely the depth of knowledge, but the ability to process information in real time, connect it across systems, and apply it through autonomous networks operating at scale.
 
-We must bind its application to a foundational agreement: all scaled solutions should be engineered to foster and sustain a collective societal architecture — not to deplete the foundation it builds upon.
+As a result, these systems are no longer optimizing isolated tasks alone. They are increasingly shaping economic structures, infrastructure, communication, and the fabric of collective reality itself. The more autonomous and interconnected these systems become, the more they influence the conditions of human life.
 
-Therefore, its development and application must be guided by human empathy toward broadly beneficial and cocreative outcomes.
+For this reason, their development cannot be driven solely by efficiency, competition, or the concentration of power. The autonomy of such systems must be anchored in a foundational societal agreement: technological scale should strengthen and sustain the structures upon which society depends, rather than exhaust the very foundations that support it.
 
+Because ultimately, what is at stake is not only technological capability, but the conditions under which human life and collective existence will be shaped in the future.
+
+The development of advanced AI must therefore be guided by human empathy, responsibility, and a commitment to broadly beneficial and co-creative outcomes.
