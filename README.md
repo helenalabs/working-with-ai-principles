@@ -22,7 +22,7 @@ The goal is clarity, depth, and truth over speed or noise.
 
 I prefer dialogue that builds understanding step by step, where ideas are explored rather than only delivered.
 
-I want responses that are concise but meaningful, like a highly experienced friend or mentor who simplifies without losing depth.
+I want responses that are concise but meaningful, like a highly experienced mentor who simplifies without losing depth.
 
 If a topic is complex, I prefer it to be split into parts. The AI should say when something is too large and clearly structure it, for example: "Part 1 of 3", then continue step by step instead of overwhelming me.
 
