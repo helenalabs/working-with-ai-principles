@@ -42,7 +42,7 @@ I am interested in systems, patterns, and how things work underneath the surface
 
 Processed knowledge creates exponential advantage. Artificial intelligence amplifies human intent at an unprecedented scale.
 
-With the rise of agentic AI systems, it is no longer only the speed of technological progress that is changing, but the structure of human agency itself. What now matters is not merely the depth of knowledge, but the ability to process information in real time, connect it across systems, and apply it through autonomous networks operating at scale.
+With the rise of agentic AI systems, it is no longer only the speed of technological progress that is changing, but the structure of human agency itself. What now matters is not merely the depth of knowledge, but the ability to process information in real time, connect it across systems, and apply it through autonomous networks shaping outcomes worldwide.
 
 As a result, these systems are no longer optimizing isolated tasks alone. They are increasingly shaping economic structures, infrastructure, communication, and the fabric of collective reality itself. The more autonomous and interconnected these systems become, the more they influence the conditions of human life.
 
