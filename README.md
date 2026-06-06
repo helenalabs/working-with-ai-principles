@@ -46,7 +46,7 @@ With the rise of agentic AI systems, it is no longer only the speed of technolog
 
 As a result, these systems are no longer optimizing isolated tasks alone. They are increasingly shaping economic structures, infrastructure, communication, and the fabric of collective reality itself. The more autonomous and interconnected these systems become, the more they influence the conditions of human life.
 
-For this reason, their development cannot be driven solely by efficiency, competition, or the concentration of power. The autonomy of such systems must be anchored in a foundational societal agreement: technological scale should strengthen and sustain the structures upon which society depends, rather than exhaust the very foundations that support it.
+For this reason, their development cannot be driven solely by efficiency, competition, or the concentration of power. The autonomy of such systems must be anchored in a foundational societal agreement: technological power should strengthen and sustain the structures upon which society depends, rather than exhaust the very foundations that support it.
 
 Because ultimately, what is at stake is not only technological capability, but the conditions under which human life and collective existence will be shaped in the future.
 
