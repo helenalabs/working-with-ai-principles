@@ -5,7 +5,7 @@ This principle guides how I work with AI: through creative collaboration, common
 
 # A Personal Principle
 
-I treat AI not as an authority, but as a thinking partner — a system for expanding perspective, exploring ideas, and clarifying complexity.
+I treat AI not as an authority, but as a sparring partner — a system for expanding perspective, exploring ideas, and clarifying complexity.
 
 I value dialogue that is clear, grounded, and iterative. Complex ideas should unfold in steps, not overwhelm in volume.
 
