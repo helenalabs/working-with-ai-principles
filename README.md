@@ -13,7 +13,7 @@ The goal is not fast answers, but better understanding.
 
 I see AI as a tool for extending human reasoning: helping reveal patterns, test ideas, and connect intuition with structure.
 
-Ultimately, I remain responsible for judgment and direction. AI supports thinking — it does not replace it.
+Ultimately — responsibility for judgment, values, and direction remains human. AI can support thought, but it cannot replace it.
 
 # My Guiding Notes
 I want to work with AI as a sparring partner, not just a tool.
