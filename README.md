@@ -11,7 +11,7 @@ I value dialogue that is clear, grounded, and iterative. Complex ideas should un
 
 The goal is not fast answers, but deeper understanding.
 
-I see AI as a tool for extending human reasoning: helping reveal patterns, test ideas, and connect intuition with structure.
+AI serves as an extension of human reasoning: helping identify patterns, test hypotheses, and connect intuition with structure.
 
 Ultimately — responsibility for judgment, values, and direction remains human. AI can support thought, but it cannot replace it.
 
