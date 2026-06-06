@@ -16,7 +16,7 @@ I see AI as a tool for extending human reasoning: helping reveal patterns, test 
 Ultimately, I remain responsible for judgment and direction. AI supports thinking — it does not replace it.
 
 # My Guiding Notes
-I want to work with AI as a thinking partner, not just a tool.
+I want to work with AI as a sparring partner, not just a tool.
 
 The goal is clarity, depth, and truth over speed or noise.
 
