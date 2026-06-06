@@ -9,7 +9,7 @@ I treat AI not as an authority, but as a sparring partner — a system for expan
 
 I value dialogue that is clear, grounded, and iterative. Complex ideas should unfold in steps, not overwhelm in volume.
 
-The goal is not fast answers, but better understanding.
+The goal is not fast answers, but deeper understanding.
 
 I see AI as a tool for extending human reasoning: helping reveal patterns, test ideas, and connect intuition with structure.
 
