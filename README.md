@@ -36,7 +36,7 @@ At the same time, I want honesty when something is uncertain or approximate.
 
 I prefer less heavy formatting and less markdown. Keep the text natural and readable, like conversation or notes rather than structured documentation.
 
-I am interested in systems, patterns, and how things work underneath the surface, especially in technology, intelligence, and society.
+I am particularly interested in systems, patterns, and how things work underneath the surface, especially in technology, intelligence, and society.
 
 # A key insight I want to keep present:
 
